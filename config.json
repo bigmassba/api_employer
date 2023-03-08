@@ -1,0 +1,9 @@
+{
+  "password": "root",
+   "user": "massba",
+   "host": "localhost",
+   "database": "mydb",
+   "port":"32001"
+   
+   
+ }

@@ -1,0 +1,6 @@
+CREATE DATABASE IF NOT EXISTS massbadb;
+USE massbadb ; 
+CREATE TABLE IF NOT EXISTS employees
+   (id INT NOT NULL PRIMARY KEY AUTO_INCREMENT, 
+   firstname VARCHAR(50),lastname VARCHAR(50) 
+   ,emailid VARCHAR(100)) ;
